@@ -37,9 +37,11 @@ Academic Integrity Statement:
 
 
 def main():
-
+ # Here I start my code. . Name  = variable where the input will be saved.
+ #Ask for an user input
     Name = input("What is your name? ")
-    print("Hello ",Name,end='!\n')
+#Print output
+    print("Hello",Name,sep =" ",end= "!\n")
 
 
 """Do not change anything below this line."""
