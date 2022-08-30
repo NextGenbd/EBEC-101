@@ -41,7 +41,7 @@ def main():
  #Ask for an user input
     Name = input("What is your name? ")
 #Print output
-    print("Hello ",Name,end='!')
+    print("Hello ",Name,"!")
 
 
 """Do not change anything below this line."""
